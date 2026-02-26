@@ -23,3 +23,5 @@ print('o aluno passou de ano?', True)
 print('altura', 1.71)
 print('R$', 500.0)
 print('teste', 2,5.2, False)
+print(1236, 'teste')
+
